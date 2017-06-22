@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.form-container {
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  width: 95%;
+}
